@@ -1,0 +1,44 @@
+[
+  
+ 
+  {
+    "name": "OpenCV Volume Controller",
+    "desc": "It helps to control volume using hand gestures.It uses Artificial Intelligence to control the volume",
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/MDjafar07/OpenCV-_Volume_Controler",
+      "code": "https://github.com/MDjafar07/OpenCV-_Volume_Controler/blob/main/main.py"
+    }
+  },
+  {
+    "name": "E-Commerace Website",
+    "desc": "E-Commerace clone ready to use for business.",
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/MDjafar07/E-commerce-website-Clone/blob/main/anon-ecommerce-website-master/README.md",
+      "code": "https://github.com/MDjafar07/E-commerce-website-Clone/tree/main/anon-ecommerce-website-master"
+    }
+  },
+
+  {
+    "name": "SMS Encryption And Decryption",
+    "desc": "SMS Encryption Project: Enhancing SMS security through advanced encryption techniques for confidential communication.",
+    
+    "category": "Python",
+    "links": {
+      "view": "https://github.com/MDjafar07/SMS_Encryption_and_Decryption/blob/main/README.md",
+      "code": "https://github.com/MDjafar07/SMS_Encryption_and_Decryption/blob/main/main.py"
+    }
+  },
+  {
+    "name": "Minor Project",
+    "desc": "It is use to HTML, CSS and JavaScript to build the Project",
+     
+    "category": "mern",
+    "links": {
+      "view": "https://github.com/MDjafar07/Minor_Project",
+      "code": "https://github.com/MDjafar07/Minor_Project"
+    }
+  }
+  
+]
